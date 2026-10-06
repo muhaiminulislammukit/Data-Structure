@@ -1,0 +1,19 @@
+n = 1000
+
+Constant          :    o(1)        >-1
+Linear            :    O(N)        >-1000
+Lograithmic       :    O(logN)     >-10
+Square root       :    O(Sqrt(N))  >-32
+Quadrtic          :    O(N*N)      >-1000000
+Linearithmc       :    O(NlogN)    >-10000
+
+
+
+
+Now this is  best complexity
+1.Constant          :    o(1)
+2.Lograithmic       :    O(logN) 
+3.Square root       :    O(Sqrt(N))
+4.Linear            :    O(N)
+5.Linearithmc       :    O(NlogN)
+6.Quadrtic          :    O(N*N)
